@@ -1,4 +1,4 @@
-<h1 align="center"> Relatório Arduíno </h1>
+<h1 align="center"> Página de Noticias </h1>
 
 <p align="center">
 Projeto desenvolvido para apresentação de relatório de aulas prática com arduíno. <br/>
