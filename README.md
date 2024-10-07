@@ -1,13 +1,12 @@
 <h1 align="center"> Página de Noticias </h1>
 
 <p align="center">
-Projeto desenvolvido para apresentação de relatório de aulas prática com arduíno. <br/>
+Nesse projeto foi desenvolvido uma homepage de um portal de notícias sobre tecnologia para ser visualizado em um desktop.<br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-layout">Layout</a>
 </p>
 
 <p align="center">
@@ -21,28 +20,17 @@ Projeto desenvolvido para apresentação de relatório de aulas prática com ard
 </p>
 
 ## 🚀 Tecnologias
-
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
 ## 💻 Projeto
-
-Relatório de Aulas Práticas.
-
-- [Acesse o projeto finalizado, online](https://relatorio-arduino.vercel.app/)
+Página de um Portal de Noticias
 
 ## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
+Layouto criado por [Llana Mallak](https://www.linkedin.com/in/ilanamallak/). Você pode visualizar o layout do projeto através [DESSE LINK](#). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
-Desenvolvido por Michael
+Codado por Michael Douglas
