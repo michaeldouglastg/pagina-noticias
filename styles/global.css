@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: solid 1px rgba(255, 255, 0, 0.171);
+  /* border: solid 1px rgba(255, 255, 0, 0.171); */
 }
 
 :root {
@@ -46,21 +46,16 @@ h1, h2, h3 {
   font: inherit;
 }
 
+img {
+  max-width: 100%;
+}
+
 .container {
   max-width: 1280px;
   margin-inline: auto;
   padding-inline: 32px;
 }
 
-
-
-
-
-/* Utility-First */
-.grid {
-  display: grid;
-}
-
-.grid-flow-col {
-  grid-auto-flow: column;
+main {
+  margin-top: 40px;
 }
