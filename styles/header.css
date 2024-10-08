@@ -25,4 +25,5 @@
   padding-block: 14px;
   border-inline: none;
   border: solid 1px var(--stroke-color);
+  justify-content: space-between;
 }
