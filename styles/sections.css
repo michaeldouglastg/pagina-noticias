@@ -2,7 +2,26 @@
   img {
     height: 100%;
     object-fit: cover;
-    border-radius: 5px;
+    /* border-radius: 5px; */
   }
-  
+}
+
+/* .card::before */
+.card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 5px;
+
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    top: 50%;
+    background: linear-gradient(
+      180deg,
+      transparent 0%,
+      #020617 100%
+    );
+  }
 }
