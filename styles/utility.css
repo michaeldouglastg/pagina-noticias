@@ -34,3 +34,7 @@
 .text-sm {
   font: var(--text-sm);
 }
+
+.title-sm {
+  font: var(--title-sm);
+}
